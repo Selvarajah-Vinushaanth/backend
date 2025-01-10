@@ -16,10 +16,10 @@ app.use(express.json());
 
 // MySQL Database Connection Setup
 const db = mysql.createConnection({
-  host: 'localhost',
-  user: 'user1',  // Change this to the correct user
-  password: '123', // Set the correct password
-  database: 'moneymanager'
+  host: 'bfthfwofgnxwzvxat8lh-mysql.services.clever-cloud.com',
+  user: 'upgnwvvotvjr8aiw',  // Change this to the correct user
+  password: 'lyF4RteaMnmDLAMy2Ap7', // Set the correct password
+  database: 'bfthfwofgnxwzvxat8lh'
 });
 
 // Connect to database

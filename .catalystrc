@@ -10,11 +10,11 @@
   "projects": [
     {
       "idx": 1,
-      "id": "25451000000010001",
-      "name": "new",
+      "id": "25451000000011001",
+      "name": "trial",
       "domain": {
-        "id": "10093697935",
-        "name": "new-874749424.development"
+        "id": "10093700620",
+        "name": "trial-874749424.development"
       },
       "timezone": "Asia/Colombo",
       "env": [
